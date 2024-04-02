@@ -9,4 +9,5 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="./icons/node-icon.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./icons/git-icon.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./icons/github-icon.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./icons/tailwind-icon.svg" />
 <br />
